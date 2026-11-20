@@ -7,5 +7,5 @@
   "description": "Print Goal for the Prusa CORE One INDX: PLA parts, including multi-colour PLA, on a PETG support interface that peels off cleanly.",
   "repo": "https://github.com/tlchandler/indx-pla-petg-supports",
   "min_slicer_version": "3.0.0-alpha12",
-  "required_apis": { "print.print_mode": "1.0.0" }
+  "required_apis": { "project.plugin": "1.0.0" }
 }
