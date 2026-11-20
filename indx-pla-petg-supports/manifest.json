@@ -2,7 +2,7 @@
   "id": "io.github.tlchandler.indx-pla-petg-supports",
   "name": "INDX PLA with PETG supports",
   "version": "1.0.0-beta.1",
-  "author": "REPLACE-WITH-MARKETPLACE-AUTHOR-ID",
+  "author": "e89cf969-dfd0-4a8f-82d7-5dfd58693aa9",
   "license": "AGPL-3.0-only",
   "description": "Print Goal for the Prusa CORE One INDX: PLA parts, including multi-colour PLA, on a PETG support interface that peels off cleanly.",
   "repo": "https://github.com/tlchandler/indx-pla-petg-supports",
